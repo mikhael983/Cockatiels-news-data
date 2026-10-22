@@ -61,7 +61,7 @@ If a stream doesn't work reliably, it doesn't stay.
 
 ## Upstream acknowledgment
 
-Famelack benefits from the open-source community. A significant portion of the TV discovery workflow is sourced from the [iptv-org](https://github.com/iptv-org/iptv) community, which we refine through:
+cockatiels news benefits from the open-source community. A significant portion of the TV discovery workflow is sourced from the [iptv-org](https://github.com/iptv-org/iptv) community, which we refine through:
 
 - Automated validation and uptime monitoring
 - CORS and playback compatibility checks
@@ -75,7 +75,7 @@ The webcam dataset is also curated and maintained independently by Famelack from
 
 This repository is not a mirror. It is continuously transformed, filtered, and enriched to support the Famelack platform.
 
-## About Famelack
+## About cockatiels news
 
 This repository powers **Famelack.com**, which uses this dataset as a primary data source for search, playback, favorites, and other platform features.
 
